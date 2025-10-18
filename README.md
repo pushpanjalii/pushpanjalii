@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5F7F7&center=true&vCenter=true&width=435&lines=+++++++++++++++++++++++++Hi+%F0%9F%91%8B%2C+I'm+pushpanjali+verma)](https://git.io/typing-svg)
 <h3 align="center" >A passionate FullStack developer</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Node, express and MongoDB**
 
