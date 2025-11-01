@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pushpanjaliv65@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KuhC6fcRU0tk55bmomQ-0lBBmg5Hb1iB/view?usp=drivesdk](https://drive.google.com/file/d/1KuhC6fcRU0tk55bmomQ-0lBBmg5Hb1iB/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KuhC6fcRU0tk55bmomQ-0lBBmg5Hb1iB/view?usp=drivesdk](https://drive.google.com/file/d/1WipH9xEGlymZLJCPcnz1XbNcLsOAbnIv/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
