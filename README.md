@@ -5,22 +5,23 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Learner;Problem+Solver;Building+Clean+UI+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6FE&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Problem+Solver;Building+Clean+UI+Experiences" />
 </p>
 
 ---
 
-## 👋 Hi there!
+## 👋 Hi, I'm Pushpanjali
 
-I’m **Pushpanjali Verma**, a passionate **FullStack Developer** who loves turning ideas into interactive, user-friendly web experiences.
+I’m a **Frontend Developer** passionate about building **modern, clean, and scalable web interfaces**.
 
-- 🎯 Focused on **React, JavaScript & UI Engineering**
-- 🧠 Strong in **DSA & core JS concepts**
-- 🛠️ Exploring **DSA & Full-Stack Architecture**
+- 🎯 Focus: **React, JavaScript, UI Engineering**
+- 🌱 Learning: **Next.js & Backend APIs**
+- 🧠 Strong in **DSA & Core JavaScript**
+- 🚀 Goal: **Full Stack Developer**
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
@@ -37,34 +38,34 @@ I’m **Pushpanjali Verma**, a passionate **FullStack Developer** who loves turn
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushpanjalii&theme=algolia&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pushpanjalii&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushpanjalii&show_icons=true&theme=react&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpanjalii&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pushpanjalii&show_icons=true&theme=react" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=pushpanjalii&theme=react" height="165"/>
 </p>
 
 ---
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?pushpanjalii&layout=compact&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpanjalii&layout=compact&theme=react"/>
 </p>
 
 ---
 
-## 🚀 Highlighted Projects
-- 🌐 **NetflixGPT** – Built with React & modern UI patterns  
-- 🛒 **DineFit** – Clean UI, reusable components   
+## 🚀 Featured Projects
+- 🌐 **Portfolio Website** – React-based personal portfolio  
+- 🛒 **E-Commerce UI** – Clean UI with reusable components  
+- 🧩 **DSA Practice** – Optimized solutions & explanations  
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pushpanjaliverma1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -76,15 +77,8 @@ I’m **Pushpanjali Verma**, a passionate **FullStack Developer** who loves turn
 
 ---
 
-## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/pushpanjalii/pushpanjalii/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<p align="center">
-  ✨ *"Consistency beats motivation."* ✨
+  ✨ “Consistency beats motivation.” ✨
 </p>
 
 <!-- Footer -->
