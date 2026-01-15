@@ -37,7 +37,7 @@ I’m **Pushpanjali Verma**, a passionate **FullStack Developer** who loves turn
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pushpanjalii&theme=algolia&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -45,15 +45,15 @@ I’m **Pushpanjali Verma**, a passionate **FullStack Developer** who loves turn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pushpanjalii&show_icons=true&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpanjalii&theme=react&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?pushpanjalii&layout=compact&theme=react&hide_border=true"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ I’m **Pushpanjali Verma**, a passionate **FullStack Developer** who loves turn
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/pushpanjalii/pushpanjalii/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
